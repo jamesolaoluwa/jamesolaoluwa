@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Olaoluwa James-Owolabi 👋🏽 </h1>
-<h3 align="center">CS + AI + Product · Building things that help people level up</h3>
+<h3 align="center">CS + AI + Product · I architect and optimize systems for deployment, large-scale training and inference. </h3>
 
 ---
 
