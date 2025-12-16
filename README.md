@@ -7,7 +7,7 @@
 ## About Me
 
 - 🎓 Computer Science major @ **Philander Smith University** (4.0 CGPA)  
-- 💻 Prev CoreAI Intern @ Microsoft(CoreAI), Dell(Infra Solutions Group)
+- 💻 Interned @ Microsoft(CoreAI), Dell Technologies(Infra Solutions Group)
 - 🚀 Worked on **GPU / Triton kernels for Microsoft AI accelerators** and a **Dell Resource orchestrator API** used by thousands of engineers  
 - 🏆 Google Generation Scholar, Splunk HBCU Academic Scholar, eBay x BOTB Scholar, Entergy PYF Scholar, NSBE CSP Scholar, ColorStack Scholar  
 - 👨🏾‍💻 I enjoy building products that mix **AI, systems engineering, and significant impact**  
