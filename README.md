@@ -58,6 +58,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Triton-000000?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=green" />
+  <img src="https://img.shields.io/badge/n8n-FFFFFF?style=for-the-badge&logo=n8n&logoColor=red" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -66,28 +68,10 @@
   <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.Js-000000?style=for-the-badge&logo=node.js&logoColor=green" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jamesolaoluwa&show_icons=true&theme=radical&hide_rank=true" 
-    alt="GitHub stats"
-  />
-</p>
-
----
-
-## 📚 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesolaoluwa&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
@@ -96,8 +80,8 @@
 
 - 🥇 **Best Advocacy Project** – EcoInspire (CodePath Web Dev) out of 350+ students
 - 🥇 **Best Project** – Plate Pilot (CodePath IOS Dev) out of 150+ students   
-- 🥇 **1st Place** – HBCU Founders Initiative Pitch Competition  
-- 🥇 **1st Place** – JPMorgan Chase Data for Good Hackathon  
+- 🥇 **2x 1st Place** – HBCU Founders Initiative Pitch Competition  
+- 🥇 **1st Place** – JPMorgan Chase Data for Good Hackathon
 - 🥉 **3rd Place** – AAAS Innovation Pitch
 
 ---
