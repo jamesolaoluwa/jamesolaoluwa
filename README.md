@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Olaoluwa 👋🏽 </h1>
-<h3 align="center">CS + AI + Product · I build and optimize infrastructural systems for deployment, large-scale training, and inference 🤙🏾.</h3>
+<h3 align="center"> I build and optimize infrastructural systems for deployment, large-scale training, and inference 🤙🏾.</h3>
 
 ---
 
