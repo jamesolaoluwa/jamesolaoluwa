@@ -6,11 +6,11 @@
 
 ## About Me
 
-- 🎓 Computer Science major @ Philander Smith University (4.0 CGPA)  
-- 🚀 Built AI Agents @ LinkedIn, Worked on GPU / Triton kernels @ Microsoft for the **MAIA 200 AI** accelerator and built a Resource orchestrator @ Dell used by thousands of engineers 
-- 🏆 Google Generation Scholar, Splunk HBCU Academic Scholar, eBay x BOTB Scholar, 2x Entergy PYF Scholar, NSBE CSP Scholar, ColorStack Scholar  
-- 👨🏾‍💻 I enjoy building AI products 🤙🏾
-- ⚽ Outside work: soccer, studying the Bible, gaming, writing
+- Computer Science major @ Philander Smith University (4.0 CGPA)  
+- Built AI Agents @ LinkedIn, Worked on GPU / Triton kernels @ Microsoft for the **MAIA 200 AI** accelerator and built a Resource orchestrator @ Dell used by thousands of engineers 
+- Google Generation Scholar, Splunk HBCU Academic Scholar, eBay x BOTB Scholar, 2x Entergy PYF Scholar, NSBE CSP Scholar, ColorStack Scholar  
+- I enjoy building AI products 🤙🏾
+- Outside work: soccer, studying the Bible, gaming, writing
 - Side Note: Also a Frontend design and Canva expert
 
 ---
