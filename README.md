@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Olaoluwa James-Owolabi 👋🏽 </h1>
-<h3 align="center">CS + AI + Product · I plan, build, and optimize systems for deployment, large-scale training, and inference. </h3>
+<h3 align="center">CS + AI + Product · I build and optimize infrastructural systems for deployment, large-scale training, and inference. </h3>
 
 ---
 
@@ -11,8 +11,8 @@
 - 🚀 Worked on **GPU / Triton kernels for Microsoft AI accelerators** and built a **Dell Resource orchestrator API** used by thousands of engineers 
 - 🏆 Google Generation Scholar, Splunk HBCU Academic Scholar, eBay x BOTB Scholar, 2x Entergy PYF Scholar, NSBE CSP Scholar, ColorStack Scholar  
 - 👨🏾‍💻 I enjoy building AI products 🤙🏾
+- ⚽ Outside code: soccer, studying the Bible, gaming, writing
 - Side Note: Also a Frontend design and Canva expert
-- ⚽ Outside of code: soccer, studying the Bible, gaming, writing, and mentoring others 
 
 ---
 
@@ -88,7 +88,7 @@
 
 ## 🎧 Very Random (Spotify Listens)
 
-> I code best with Christian Rap, Boom-Bap, lo-fi, and pop soundtracks.  
+> I mostly listen to Christian Rap, Boom-Bap, lo-fi, and pop soundtracks.  
 > Check out what I’ve been listening to lately:
 
 [![Spotify Recently Played](https://img.shields.io/badge/Spotify-Recently_Played-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lnocx2us57duj4zb4ujqkt4uxy
