@@ -1,40 +1,20 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Olaoluwa James-Owolabi 👋🏽 </h1>
-<h3 align="center">CS + AI + Product · I build and optimize infrastructural systems for deployment, large-scale training, and inference. </h3>
+<h1 align="center">Hi, I'm Olaoluwa 👋🏽 </h1>
+<h3 align="center">CS + AI + Product · I build and optimize infrastructural systems for deployment, large-scale training, and inference 🤙🏾.</h3>
 
 ---
 
 ## About Me
 
 - Computer Science major @ Philander Smith University (4.0 CGPA)  
-- Built AI Agents @ LinkedIn, Worked on GPU / Triton kernels @ Microsoft for the **MAIA 200 AI** accelerator and built a Resource orchestrator @ Dell used by thousands of engineers 
+- Built AI Agents @ LinkedIn, Worked on GPU / Triton kernels @ Microsoft for the **MAIA 200 AI** accelerator, and built a Resource orchestrator @ Dell used by thousands of engineers 
 - Google Generation Scholar, Splunk HBCU Academic Scholar, eBay x BOTB Scholar, 2x Entergy PYF Scholar, NSBE CSP Scholar, ColorStack Scholar  
-- I enjoy building AI products 🤙🏾
-- Outside work: soccer, studying the Bible, gaming, writing
+- Outside work: studying the Bible, soccer, gaming, writing
 - Side Note: Also a Frontend design and Canva expert
 
 ---
 
-## 🌐 Socials
-
-<p align="left">
-  <a href="http://linkedin.com/in/olaoluwa-james-owolabi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/olaoluwa_.__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://olaoluwasportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/31lnocx2us57duj4zb4ujqkt4uxy" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -75,13 +55,32 @@
 
 ---
 
-## 🏆 A Few Highlights
+## A Few Highlights
 
 - 🥇 **Best Advocacy Project** – EcoInspire (CodePath Web Dev) out of 350+ students
 - 🥇 **Best Project** – Plate Pilot (CodePath IOS Dev) out of 150+ students   
 - 🥇 **2x 1st Place** – HBCU Founders Initiative Pitch Competition  
 - 🥇 **1st Place** – JPMorgan Chase Data for Good Hackathon
-- 🥉 **3rd Place** – AAAS Innovation Pitch
+- 🥉 **2x 3rd Place** – AAAS Innovation Pitch
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="http://linkedin.com/in/olaoluwa-james-owolabi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/olaoluwa_.__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://olaoluwasportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/31lnocx2us57duj4zb4ujqkt4uxy" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
 
 ---
 
